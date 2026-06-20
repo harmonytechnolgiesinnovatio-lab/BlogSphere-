@@ -1,0 +1,6 @@
+{
+  "name": "BlogSphere",
+  "description": "A professional, modern, and engaging blogging platform to write, read, share, and discuss articles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
